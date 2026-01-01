@@ -5,28 +5,28 @@
 
 <h1 align="center">Hi, I'm Bernabas Gezahegn 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&pause=1000&width=600&color=00FF00&background=000000&lines=Software Engineer+%7C+ERP+%26+Automation;Backend+%26+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&pause=1000&width=600&color=00FF00&background=000000&lines=Software+Engineer+%7C+ERP+%26+Automation;Backend+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
 </p>
 
 <h3 align="center">Software Engineer | ERP & Business Automation | DevOps Learner</h3>
 
-🔥 I build scalable digital solutions that empower businesses to work smarter.  
-Currently focused on ERP customizations, microservices, and modern DevOps tooling.
+[cite_start]🔥 I build scalable digital solutions that empower businesses to work smarter. [cite: 22]  
+[cite_start]Currently focused on ERP customizations, microservices, and modern DevOps tooling. [cite: 23]
 
 <pre>══════════ ⚡ MATRIX STREAM ⚡ ══════════</pre>
 ▌ About Me ◣◥◣◥◣◥
 
-- 🧩 Crafting enterprise-ready ERP solutions with **Odoo** and deep backend customization  
-- 🐳 Shipping containerized systems using **Docker** & service discovery with **Consul**  
-- 🌍 Building solutions across Ethiopia  
-- 🎓 Always learning what's next in distributed systems and cloud architecture  
+- [cite_start]🧩 Crafting enterprise-ready ERP solutions with **Odoo** and deep backend customization [cite: 26]
+- [cite_start]🐳 Shipping containerized systems using **Docker** & service discovery with **Consul** [cite: 27]
+- [cite_start]🌍 Building solutions across Ethiopia [cite: 27]
+- [cite_start]🎓 Always learning what's next in distributed systems and cloud architecture [cite: 28]
 
 <pre>══════════ ⚡ SYSTEMS ONLINE ⚡ ══════════</pre>
 ▌ Tech Toolbox ⧉
 
 ### 🛠 Tech Toolbox
 
-**Backend**
+[cite_start]**Backend** [cite: 35]
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-7A92A3?style=for-the-badge&logo=odoo&logoColor=white)
@@ -36,53 +36,53 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-**Frontend**
+[cite_start]**Frontend** [cite: 43]
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Database**
+[cite_start]**Database** [cite: 45]
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps & Infra**
+[cite_start]**DevOps & Infra** [cite: 51]
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Consul](https://img.shields.io/badge/Consul-2B6CB0?style=for-the-badge)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge)
+![Consul](https://img.shields.io/badge/Consul-2B6CB0?style=for-the-badge&logo=consul&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
 
 <pre>══════════ ⚡ DATA FLOW ACTIVE ⚡ ══════════</pre>
 ▌ Highlight Projects ⚡
 
 | Project | Description | Stack |
-|--------|-------------|------|
-| **Custom Odoo Payroll Module** | Advanced payroll engine with contract-based logic & PDF payslips | Python, Odoo ORM, QWeb |
-| **Microservices Chat System** | Dynamic chat service using service discovery & container orchestration | Node.js, Express, Consul, Docker |
-| **Odoo Logging & Monitoring** | Centralized enterprise logs and analytics with ELK | Filebeat, Logstash, Elasticsearch, Kibana |
+| :--- | :--- | :--- |
+| **Custom Odoo Payroll Module** | [cite_start]Advanced payroll engine with contract-based logic & PDF payslips [cite: 58] | [cite_start]Python, Odoo ORM, QWeb [cite: 58] |
+| **Microservices Chat System** | [cite_start]Dynamic chat service using service discovery & container orchestration [cite: 58] | [cite_start]Node.js, Express, Consul, Docker [cite: 58] |
+| **Odoo Logging & Monitoring** | [cite_start]Centralized enterprise logs and analytics with ELK [cite: 58] | [cite_start]Filebeat, Logstash, Elasticsearch, Kibana [cite: 58] |
 
-🔍 Repos updated frequently as I continue building real-world ERP solutions.
+[cite_start]🔍 Repos updated frequently as I continue building real-world ERP solutions. [cite: 59]
 
 <pre>══════════ ⚡ PROCESS CONTINUES ⚡ ══════════</pre>
 ▌ Current Focus ⌁
 
-- Infrastructure automation & deployment pipelines  
-- Scaling Odoo and ERP customization best practices  
-- Secure API-driven business systems  
+- [cite_start]Infrastructure automation & deployment pipelines [cite: 67]
+- [cite_start]Scaling Odoo and ERP customization best practices [cite: 68]
+- [cite_start]Secure API-driven business systems [cite: 69]
 
 <pre>══════════ ⚡ QUERY CHANNEL OPEN ⚡ ══════════</pre>
 ▌ Connect with Me ☎
 
-- 📧 Email: **bernabasgezahegn@gmail.com**  
-- 💼 LinkedIn: *www.linkedin.com/in/bernabas-gezahgn*  
+- [cite_start]📧 Email: **bernabasgezahegn@gmail.com** [cite: 72]
+- [cite_start]💼 LinkedIn: [bernabas-gezahgn](https://www.linkedin.com/in/bernabas-gezahgn) [cite: 73]
 
-> “Engineering software that transforms business workflows into effortless performance.”
+> [cite_start]“Engineering software that transforms business workflows into effortless performance.” [cite: 74]
 
 <pre>══════════ ⚡ END OF TRANSMISSION ⚡ ══════════</pre>
