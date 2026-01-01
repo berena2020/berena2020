@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Bernabas Gezahegn 👋</h1>
 <h3 align="center">Software Engineer | ERP & Business Automation | DevOps Learner</h3>
 
-[cite_start]🔥 I build scalable digital solutions that empower businesses to work smarter[cite: 22]. 
-[cite_start]Currently focused on ERP customizations, microservices, and modern DevOps tooling[cite: 23].
+🔥 I build scalable digital solutions that empower businesses to work smarter. 
+Currently focused on ERP customizations, microservices, and modern DevOps tooling.
 
 ### 👨🏻‍💻 &nbsp;About Me
 * 🧩 Crafting enterprise-ready ERP solutions with Odoo and deep backend customization.
