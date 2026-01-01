@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bernabas Gezahegn 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=600&lines=Software+Engineer+%7C+ERP+%26+Business+Automation;Backend+%26+Frontend+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=600&lines=Software+Engineer+%7C+ERP+%26+Automation;Backend+%26+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
 </p>
 
 <h3 align="center">Software Engineer | ERP & Business Automation | DevOps Learner</h3>
@@ -24,7 +24,6 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 **Backend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" alt="Odoo" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
@@ -90,14 +89,14 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernabasgezahegn&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabasgezahegn&layout=compact&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=berena2020&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berena2020&layout=compact&hide_title=true" height="165"/>
 </p>
 
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernabasgezahegn&radius=16" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berena2020&radius=16" alt="Activity Graph"/>
 </p>
 
 
