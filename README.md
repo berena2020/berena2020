@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Bernabas Gezahegn 👋</h1>
-<h3 align="center">Software Engineer | ERP & Business Automation | DevOps Learner</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&pause=1000&width=600&color=00FF00&background=000000&lines=Software Engineer+%7C+ERP+%26+Automation;Backend+%26+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&pause=1000&width=600&color=00FF00&background=000000&lines=Software+Engineer+%7C+ERP+%26+Automation;Backend+%26+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
 </p>
+
+<h3 align="center">Software Engineer | ERP & Business Automation | DevOps Learner</h3>
+
 🔥 I build scalable digital solutions that empower businesses to work smarter. 
 Currently focused on ERP customizations, microservices, and modern DevOps tooling.
 
@@ -22,6 +24,7 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 ### 💻 Frontend
 
