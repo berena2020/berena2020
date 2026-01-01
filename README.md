@@ -18,7 +18,7 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 ### 🛠 Tech Toolbox
 
 **Backend & ERP**
-- Python, Odoo, Node.js, Express, RESTful APIs
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" alt="Odoo" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/> <img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge" alt="REST APIs"/> </p>
 
 **Frontend**
 - JavaScript, React, HTML5, CSS3
