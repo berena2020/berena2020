@@ -1,7 +1,7 @@
-content = r"""┌──────────────────────────────────────────────┐
-              │  Access Granted: Bernabas Gezahegn 👋        │
-              │  Initializing Profile…                       │
-              └──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│  Access Granted: Bernabas Gezahegn 👋        │
+│  Initializing Profile…                       │
+└──────────────────────────────────────────────┘
 
 <h1 align="center">Hi, I'm Bernabas Gezahegn 👋</h1>
 <p align="center">
@@ -13,16 +13,16 @@ content = r"""┌─────────────────────
 🔥 I build scalable digital solutions that empower businesses to work smarter.  
 Currently focused on ERP customizations, microservices, and modern DevOps tooling.
 
-
-<pre>▂▃▄▅▆▇█ Matrix Stream █▇▆▅▄▃▂</pre>
-
+<pre>══════════ ⚡ MATRIX STREAM ⚡ ══════════</pre>
+▌ About Me ◣◥◣◥◣◥
 
 - 🧩 Crafting enterprise-ready ERP solutions with **Odoo** and deep backend customization  
 - 🐳 Shipping containerized systems using **Docker** & service discovery with **Consul**  
 - 🌍 Building solutions across Ethiopia  
 - 🎓 Always learning what's next in distributed systems and cloud architecture  
 
-<pre>▁▂▃▄▅▆▇█ SYSTEMS ONLINE █▇▆▅▄▃▂▁</pre>
+<pre>══════════ ⚡ SYSTEMS ONLINE ⚡ ══════════</pre>
+▌ Tech Toolbox ⧉
 
 ### 🛠 Tech Toolbox
 
@@ -59,8 +59,8 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 ![Consul](https://img.shields.io/badge/Consul-2B6CB0?style=for-the-badge)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge)
 
-<pre>▂▃▄▅▆▇█ DATA FLOW ACTIVE █▇▆▅▄▃▂</pre>
-
+<pre>══════════ ⚡ DATA FLOW ACTIVE ⚡ ══════════</pre>
+▌ Highlight Projects ⚡
 
 | Project | Description | Stack |
 |--------|-------------|------|
@@ -70,13 +70,14 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 
 🔍 Repos updated frequently as I continue building real-world ERP solutions.
 
-<pre>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█ PROCESS CONTINUES █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█</pre>
+<pre>══════════ ⚡ PROCESS CONTINUES ⚡ ══════════</pre>
+▌ Current Focus ⌁
 
 - Infrastructure automation & deployment pipelines  
 - Scaling Odoo and ERP customization best practices  
 - Secure API-driven business systems  
 
-<pre>▀▄▀▄ QUERY_CHANNEL_OPEN ▄▀▄▀</pre>
+<pre>══════════ ⚡ QUERY CHANNEL OPEN ⚡ ══════════</pre>
 ▌ Connect with Me ☎
 
 - 📧 Email: **bernabasgezahegn@gmail.com**  
@@ -84,5 +85,4 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 
 > “Engineering software that transforms business workflows into effortless performance.”
 
-<pre>◣◥◣◥◣◥ End of Transmission ◣◥◣◥◣◥</pre>
-"""
+<pre>══════════ ⚡ END OF TRANSMISSION ⚡ ══════════</pre>
