@@ -13,17 +13,16 @@ content = r"""┌─────────────────────
 🔥 I build scalable digital solutions that empower businesses to work smarter.  
 Currently focused on ERP customizations, microservices, and modern DevOps tooling.
 
-▌ MATRIX.INIT ░▒▓
-▂▃▄▅▆▇█ Matrix Stream █▇▆▅▄▃▂
-▌ About Me ◣◥◣◥◣◥
+
+<pre>▂▃▄▅▆▇█ Matrix Stream █▇▆▅▄▃▂</pre>
+
 
 - 🧩 Crafting enterprise-ready ERP solutions with **Odoo** and deep backend customization  
 - 🐳 Shipping containerized systems using **Docker** & service discovery with **Consul**  
 - 🌍 Building solutions across Ethiopia  
 - 🎓 Always learning what's next in distributed systems and cloud architecture  
 
-▁▂▃▄▅▆▇█ SYSTEMS ONLINE █▇▆▅▄▃▂▁
-▌ Tech Toolbox ⧉
+<pre>▁▂▃▄▅▆▇█ SYSTEMS ONLINE █▇▆▅▄▃▂▁</pre>
 
 ### 🛠 Tech Toolbox
 
@@ -60,8 +59,8 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 ![Consul](https://img.shields.io/badge/Consul-2B6CB0?style=for-the-badge)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge)
 
-▂▃▄▅▆▇█ DATA FLOW ACTIVE █▇▆▅▄▃▂
-▌ Highlight Projects ⚡
+<pre>▂▃▄▅▆▇█ DATA FLOW ACTIVE █▇▆▅▄▃▂</pre>
+
 
 | Project | Description | Stack |
 |--------|-------------|------|
@@ -71,14 +70,13 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 
 🔍 Repos updated frequently as I continue building real-world ERP solutions.
 
-█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█ PROCESS CONTINUES █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█
-▌ Current Focus ⌁
+<pre>█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█ PROCESS CONTINUES █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█</pre>
 
 - Infrastructure automation & deployment pipelines  
 - Scaling Odoo and ERP customization best practices  
 - Secure API-driven business systems  
 
-▀▄▀▄ QUERY_CHANNEL_OPEN ▄▀▄▀
+<pre>▀▄▀▄ QUERY_CHANNEL_OPEN ▄▀▄▀</pre>
 ▌ Connect with Me ☎
 
 - 📧 Email: **bernabasgezahegn@gmail.com**  
@@ -86,5 +84,5 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 
 > “Engineering software that transforms business workflows into effortless performance.”
 
-◣◥◣◥◣◥ End of Transmission ◣◥◣◥◣◥
+<pre>◣◥◣◥◣◥ End of Transmission ◣◥◣◥◣◥</pre>
 """
