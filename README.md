@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bernabas Gezahegn 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=600&lines=Software+Engineer+%7C+ERP+%26+Automation;Backend+%26+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&pause=1000&width=600&color=00FF00&background=000000&lines=Software+Engineer+%7C+ERP+%26+Automation;Backend+%26+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
 </p>
 
 <h3 align="center">Software Engineer | ERP & Business Automation | DevOps Learner</h3>
