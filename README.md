@@ -53,6 +53,4 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 | Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|
+
