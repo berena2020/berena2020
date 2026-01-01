@@ -1,4 +1,8 @@
 <h1 align="center">Hi, I'm Bernabas Gezahegn 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=600&lines=Software+Engineer+%7C+ERP+%26+Business+Automation;Backend+%26+Frontend+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
+</p>
+
 <h3 align="center">Software Engineer | ERP & Business Automation | DevOps Learner</h3>
 
 🔥 I build scalable digital solutions that empower businesses to work smarter.  
@@ -17,17 +21,42 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 
 ### 🛠 Tech Toolbox
 
-**Backend & ERP**
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" alt="Odoo" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/> <img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge" alt="REST APIs"/> </p>
+**Backend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" alt="Odoo" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/>
+  <img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge" alt="REST APIs"/>
+</p>
+**🎨 Frontend**
 
-**Frontend**
-- JavaScript, React, HTML5, CSS3
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+</p>
 
 **Database**
-- PostgreSQL
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40"/>
+</p> 
 
 **DevOps & Infra**
-- Docker, GitHub Actions, Nginx, Consul, Linux, ELK Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+  <img src="https://img.shields.io/badge/Consul-DevOps-informational?style=for-the-badge" alt="Consul"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-Logging-success?style=for-the-badge" alt="ELK Stack"/>
+  <img src="https://img.shields.io/badge/Nginx-Proxy-green?style=for-the-badge" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?style=for-the-badge" alt="GitHub Actions"/>
+</p>
 
 ---
 
@@ -58,5 +87,17 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 
 > “Engineering software that transforms business workflows into effortless performance.”
 
-⭐ If you like my work, consider following or starring a repo. It helps a lot!
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bernabasgezahegn&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernabasgezahegn&layout=compact&hide_title=true" height="165"/>
+</p>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernabasgezahegn&radius=16" alt="Activity Graph"/>
+</p>
+
 
