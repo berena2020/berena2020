@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Bernabas Gezahegn 👋</h1>
 <h3 align="center">Software Engineer | ERP & Business Automation | DevOps Learner</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&pause=1000&width=600&color=00FF00&background=000000&lines=Software Engineer+%7C+ERP+%26+Automation;Backend+%26+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing Intro" />
+</p>
 🔥 I build scalable digital solutions that empower businesses to work smarter. 
 Currently focused on ERP customizations, microservices, and modern DevOps tooling.
 
@@ -9,6 +11,7 @@ Currently focused on ERP customizations, microservices, and modern DevOps toolin
 * 🐳 Shipping containerized systems using Docker & service discovery with Consul.
 * 🌍 Building solutions across Ethiopia.
 * 🎓 Always learning what's next in distributed systems and cloud architecture.
+  
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
